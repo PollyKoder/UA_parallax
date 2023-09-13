@@ -4,7 +4,8 @@ body {
 
 .parallaxImg1 {
     height: 100vh;
-    background-image: url(clockSpiral.jpg);
+    width: 100vw;
+    background-image: url(Images/clockSpiral.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -18,7 +19,7 @@ body {
 
 .parallaxImg2 {
     height:100vh;
-    background-image: url(mementoMori.jpg);
+    background-image: url(Images/mementoMori.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -32,7 +33,7 @@ body {
 
 .parallaxImg3 {
     height:100vh;
-    background-image: url(UA_Both.jpg);
+    background-image: url(Images/UA_Both.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
