@@ -17,3 +17,9 @@ Tenk på det vi har lært til nå med å bruke semantisk html og korrekt navngiv
 NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side som ligger i main.
 
  - Due Sep 15
+
+
+
+ # Notat:
+  - Fikk en ide om å lage en nettside som oppleves mer som mellomting mellom en bildebok og en video, men oppdaget fortløpende at jeg vil trenge JS for å fullføre.
+  - Konklusjon: forløpig css kode går ut fra parallax effecten vi lærte å kode mandag 11 sept, søker opp andre måter å gjøre effekten på, kanskje jeg kan få den til å oppføre seg som en tetris block? (-!_i-!, utropstegn og "i" indikerer loddrett linje, med prikken som "pilrettning")

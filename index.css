@@ -8,4 +8,18 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.text {
+    text-align: left;
+    max-width: 550px;
+    display: flex;
+    letter-spacing: 5px;
 }
