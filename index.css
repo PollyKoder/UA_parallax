@@ -4,7 +4,7 @@ body {
 
 .parallaxImg1 {
     height: 100vh;
-    width: 100vw;
+    min-width: 100vw;
     background-image: url(Images/clockSpiral.jpg);
     background-attachment: fixed;
     background-position: center;
