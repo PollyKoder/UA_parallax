@@ -3,8 +3,8 @@ body {
 }
 
 .parallaxImg1 {
-    height:100vh;
-    background-image: url;
+    height: 100vh;
+    background-image: url(clockSpiral.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -16,10 +16,53 @@ body {
     align-items: center;
 }
 
+.parallaxImg2 {
+    height:100vh;
+    background-image: url(mementoMori.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parallaxImg3 {
+    height:100vh;
+    background-image: url(UA_Both.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parallaxImg4 {
+    height:100vh;
+    background-image: url();
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 .text {
     text-align: left;
-    max-width: 550px;
+    max-width: 600px;
     display: flex;
-    letter-spacing: 5px;
+    flex-direction: column;
+    justify-content: center;
+    letter-spacing: 2px;
 }
