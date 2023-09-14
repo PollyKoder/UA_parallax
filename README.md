@@ -23,3 +23,6 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
  # Notat:
   - Fikk en ide om å lage en nettside som oppleves mer som mellomting mellom en bildebok og en video, men oppdaget fortløpende at jeg vil trenge JS for å fullføre.
   - Konklusjon: forløpig css kode går ut fra parallax effecten vi lærte å kode mandag 11 sept, søker opp andre måter å gjøre effekten på, kanskje jeg kan få den til å oppføre seg som en tetris block? (-!_i-!, utropstegn og "i" indikerer loddrett linje, med prikken som "pilrettning")
+  - Kommet over et problem med bildene, bredde vs høyde, hvor størrelsen blir feil i mobil format...
+  - Brukte torsdagen til litt problem løsing, før eg gikk over til å lage en simplere parallax nettside med et annet tema, dette for å fullføre oppgavens krav, fikk godkjent å kunne levere to oppgaver, noe som vil si at så snart jeg er ferdig med den simplere varianten, så vil jeg returnere til denne.
+  - Ble mest skriving innhold per paragraf på slutten av dagen. Håper på å kunne finne løsninger til bilde problemet i morgen(fredag).
