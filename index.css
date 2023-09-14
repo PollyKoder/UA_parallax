@@ -18,7 +18,7 @@ display: flex;
     background-image: url(Images/clockSpiral.jpg);
     background-attachment: fixed;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 
     display: flex;
@@ -39,6 +39,7 @@ display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-shadow: 2px 0px 10px whitesmoke;
 }
 
 .parallaxImg3 {
@@ -57,7 +58,7 @@ display: flex;
 
 .parallaxImg4 {
     height:100vh;
-    background-image: url();
+    background-image: url(Images/openDoors.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: contain;
@@ -71,6 +72,7 @@ display: flex;
 
 .parallaxImg5 {
     height:100vh;
+    max-width: 100vw;
     background-image: url(Images/vrSpiral.jpg);
     background-attachment: fixed;
     background-position: center;
@@ -99,9 +101,20 @@ display: flex;
 
 .text {
     text-align: left;
-    max-width: 800px;
+    max-width: 600px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     letter-spacing: 2px;
+    margin:20px
+}
+
+p {
+    margin: 50px;
+    letter-spacing: 2px;
+}
+
+.text2 {
+    text-align: center;
+    text-shadow: 2px 0px 10px whitesmoke;
 }
