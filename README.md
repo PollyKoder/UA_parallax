@@ -26,3 +26,4 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
   - Kommet over et problem med bildene, bredde vs høyde, hvor størrelsen blir feil i mobil format...
   - Brukte torsdagen til litt problem løsing, før eg gikk over til å lage en simplere parallax nettside med et annet tema, dette for å fullføre oppgavens krav, fikk godkjent å kunne levere to oppgaver, noe som vil si at så snart jeg er ferdig med den simplere varianten, så vil jeg returnere til denne.
   - Ble mest skriving innhold per paragraf på slutten av dagen. Håper på å kunne finne løsninger til bilde problemet i morgen(fredag).
+  - problem: at text i <p> blir satt til venstre på tross av display  flex og text-align:center/align-item:center, prøvde å endre dette med margin-left og margin-right, har også prøvd med padding, det går, men utgjør så klart store forskjeller avhengig av skjermstørrelse. Prøver å løse problemet med å kode inn noen "rammer" for section i css.
