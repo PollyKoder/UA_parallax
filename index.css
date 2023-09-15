@@ -36,7 +36,7 @@ iframe {
 
 .parallaxImg1 {
     height: 65vh;
-    min-width: 300px;
+    min-width: 400px;
     background-image: url(Images/clockSpiral.jpg);
 }
 
@@ -47,59 +47,25 @@ iframe {
 
 .parallaxImg3 {
     height:100vh;
+    min-width: 400px;
     background-image: url(Images/UA_Both1.png);
-    background-attachment: fixed;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .parallaxImg4 {
     height:100vh;
+    min-width:200px;
     background-image: url(Images/openDoors.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .parallaxImg5 {
     height:100vh;
-    max-width: 100vw;
+    max-width: 400px;
     background-image: url(Images/vrSpiral.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .parallaxImg6 {
     height:100vh;
     background-image: url(Images/hourglassDone.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .text {
